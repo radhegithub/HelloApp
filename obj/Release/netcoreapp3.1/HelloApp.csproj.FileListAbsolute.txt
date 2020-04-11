@@ -1,0 +1,13 @@
+C:\Users\hp\Desktop\DevOps\Sample\HelloApp\bin\Release\netcoreapp3.1\HelloApp.exe
+C:\Users\hp\Desktop\DevOps\Sample\HelloApp\bin\Release\netcoreapp3.1\HelloApp.deps.json
+C:\Users\hp\Desktop\DevOps\Sample\HelloApp\bin\Release\netcoreapp3.1\HelloApp.runtimeconfig.json
+C:\Users\hp\Desktop\DevOps\Sample\HelloApp\bin\Release\netcoreapp3.1\HelloApp.runtimeconfig.dev.json
+C:\Users\hp\Desktop\DevOps\Sample\HelloApp\bin\Release\netcoreapp3.1\HelloApp.dll
+C:\Users\hp\Desktop\DevOps\Sample\HelloApp\bin\Release\netcoreapp3.1\HelloApp.pdb
+C:\Users\hp\Desktop\DevOps\Sample\HelloApp\obj\Release\netcoreapp3.1\HelloApp.csprojAssemblyReference.cache
+C:\Users\hp\Desktop\DevOps\Sample\HelloApp\obj\Release\netcoreapp3.1\HelloApp.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\DevOps\Sample\HelloApp\obj\Release\netcoreapp3.1\HelloApp.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\DevOps\Sample\HelloApp\obj\Release\netcoreapp3.1\HelloApp.AssemblyInfo.cs
+C:\Users\hp\Desktop\DevOps\Sample\HelloApp\obj\Release\netcoreapp3.1\HelloApp.dll
+C:\Users\hp\Desktop\DevOps\Sample\HelloApp\obj\Release\netcoreapp3.1\HelloApp.pdb
+C:\Users\hp\Desktop\DevOps\Sample\HelloApp\obj\Release\netcoreapp3.1\HelloApp.genruntimeconfig.cache
